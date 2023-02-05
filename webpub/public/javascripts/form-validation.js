@@ -74,7 +74,6 @@ function PrepareSend() {
         "Subject": formSubject.value,
         "Message": formMessage.value
     }
-    Send(mail);
 }
 
 //function to clear fields after validation
